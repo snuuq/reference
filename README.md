@@ -1,8 +1,6 @@
 # reference
 Useful books, papers, and lectures list
 
----
-
 ## Table of Contents
 
 - [Template (Sample)](#template-sample)
@@ -15,8 +13,6 @@ Useful books, papers, and lectures list
 - [Python and Programming](#python-and-programming)
 - [Generative Models](#generative-models)
 
----
-
 ## Template (Sample)
 
 > The following two entries serve as templates for organizing other resources.
@@ -28,8 +24,6 @@ Useful books, papers, and lectures list
 * **Theoretical Foundations of Conformal Prediction** - Anastasios N. Angelopoulos, Rina Foygel Barber, Stephen Bates, Cambridge University Press (forthcoming), 2024
   * Link: [[arXiv]](https://arxiv.org/abs/2411.11824) [[PDF]](https://arxiv.org/pdf/2411.11824)
   * Note: Research monograph on the theoretical foundations of conformal prediction and distribution-free inference. Covers permutation tests, exchangeability, and finite-sample guarantees for prediction sets.
-
----
 
 ## Deep Learning
 
@@ -47,8 +41,6 @@ Useful books, papers, and lectures list
 
 ### Lecture
 
----
-
 ## Statistical Learning
 
 ### Book
@@ -60,8 +52,6 @@ Useful books, papers, and lectures list
 ### Paper
 
 ### Lecture
-
----
 
 ## Conformal Prediction
 
@@ -83,8 +73,6 @@ Useful books, papers, and lectures list
 
 ### Lecture
 
----
-
 ## Uncertainty Quantification
 
 ### Book
@@ -92,8 +80,6 @@ Useful books, papers, and lectures list
 ### Paper
 
 ### Lecture
-
----
 
 ## Probability Theory
 
@@ -108,8 +94,6 @@ Useful books, papers, and lectures list
 
 ### Lecture
 
----
-
 ## Mathematical Analysis and Measure Theory
 
 ### Book
@@ -121,15 +105,11 @@ Useful books, papers, and lectures list
 
 ### Lecture
 
----
-
 ## Python and Programming
 
 ### Book
 
 ### Lecture
-
----
 
 ## Generative Models
 
