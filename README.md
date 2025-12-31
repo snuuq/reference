@@ -48,6 +48,14 @@ Useful books, papers, and lectures list
 * **The Elements of Statistical Learning** - Trevor Hastie, Robert Tibshirani, Jerome Friedman, Springer, 2nd Edition, 2009
   * Link: [[Website]](https://hastie.su.domains/ElemStatLearn/) [[PDF]](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
   * Note: Comprehensive treatment of statistical learning methods including regularization, kernel methods, trees, boosting, and neural networks.
+ 
+* **Foundations of Machine Learning** - Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar, MIT Press, 2nd Edition, 2018.
+  * Link: [[Website]](https://cs.nyu.edu/~mohri/mlbook/) [[PDF]](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf?dl=1)
+  * Note: Covers PAC learning, rademacher complexity, support vector machines, boosting, on-line learning, algorithmic stability, dimensionality reduction, reinforcement learning, etc.
+ 
+* **Learning Theory from First Principles** - Francis Bach, MIT Press, 2024.
+  * Link: [[Website]](https://francisbach.com/my-book-is-out/) [[PDF]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
+  * Note: Theoretical presentation of machine learning algorithms, with an emphasis on providing simple proofs with minimum prerequisites
 
 ### Paper
 
