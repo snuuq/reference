@@ -102,7 +102,7 @@ Useful books, papers, and lectures list
   * Note: Standard graduate textbook on measure-theoretic probability covering laws of large numbers, CLT, martingales, and Markov chains.
  
 * **High-Dimensional Probability** - Roman Vershynin, Cambridge University Press (forthcoming), 2nd Edition, 2025
-  * Link: [[Website]](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#) [[PDF]](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf) [[Associated Lectures]] (https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
+  * Link: [[Website]](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.html#) [[PDF]](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-2.pdf) [[Associated Lectures]](https://www.math.uci.edu/~rvershyn/teaching/hdp/hdp.html)
   * Note: Graduate textbook on high-dimensional random objects. Covers concentration of measure, chaining, random matrices, etc.
  
 * **Concentration inequalities: A non-asymptotic theory of independence** - Stéphane Boucheron, Gábor Lugosi, Pascal Massart, Oxford University Press, 2016
