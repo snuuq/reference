@@ -87,6 +87,30 @@ Useful books, papers, and lectures list
 
 ### Lecture
 
+## Markov Chain Monte Carlo (MCMC)
+
+### Book
+
+### Paper
+
+### Lecture
+
+## Bayesian Nonparametric Modeling
+
+### Book
+
+* **Gaussian Processes for Machine Learning** - Carl Rasmussen, Christopher Williams, MIT Press, 2006
+  * Link: [[Website]](https://gaussianprocess.org/gpml/chapters/) [[PDF]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
+  * Note: Reference for gaussian processes from a machine learning context.
+ 
+* **Bayesian Optimization** - Roman Garnett, Cambridge University Press, 2023
+  * Link: [[Website]](https://bayesoptbook.com/) [[PDF]](https://bayesoptbook.com/book/bayesoptbook.pdf)
+  * Note: Nice, comprehensive introduction to gaussian processes and bayesian optimization
+
+### Paper
+
+### Lecture
+
 ## Uncertainty Quantification
 
 ### Book
@@ -94,6 +118,38 @@ Useful books, papers, and lectures list
 ### Paper
 
 ### Lecture
+
+## Optimal Transport
+
+### Book
+
+### Paper
+
+### Lecture
+
+## Information Theory
+
+### Book
+
+* **Information Theory: From Coding to Learning** - Yury Polyanskiy, Yihong Wu, Cambridge University Press, 2023
+  * Link: [[PDF]](https://people.lids.mit.edu/yp/homepage/data/itbook-export.pdf)
+  * Note: Modern textbook on information theory that also covers recent applications in statistical learning theory
+
+* **Information Theory, Inference, and Learning Algorithms** - David MacKay, Cambridge University Press, 2003
+  * Link: [[Website]](https://www.inference.org.uk/mackay/itila/) [[PDF]](https://www.inference.org.uk/itprnn/book.pdf)
+  * Note: Textbook covering information theory and its connections to Bayesian inference
+
+* **Elements of Information Theory** - Thomas Cover, Joy Thomas, John Wiley & Sons, Inc., 2nd Edition, 2006
+  * Link: [[PDF]](http://staff.ustc.edu.cn/~mfy/InfoTheory/Complements/Elements%20of%20Information%20Theory%202nd.pdf)
+  * Note: Standard textbook on information theory
+
+### Paper
+
+### Lecture
+
+* **Statistics and Information Theory** - John Duchi, 2025
+  * Link: [[PDF]](https://web.stanford.edu/class/ee377/lecture-notes.pdf)
+  * Note: Comprehensive book on statistical applications of information theory
 
 ## Probability Theory
 
@@ -109,7 +165,7 @@ Useful books, papers, and lectures list
  
 * **Concentration inequalities: A non-asymptotic theory of independence** - Stéphane Boucheron, Gábor Lugosi, Pascal Massart, Oxford University Press, 2016
   * Link: [[Website]](https://stephane-v-boucheron.fr/publication/zb-math-06586491/) [[PDF]](http://home.ustc.edu.cn/~zyx240014/USTCProbability/files/Concentration_inequalities.pdf)
-  * Note: Reference on concentration inequalities
+  * Note: Reference for concentration inequalities
 
 ### Paper
 
@@ -137,7 +193,23 @@ Useful books, papers, and lectures list
 
 ### Book
 
+* **Flow Matching Guide and Code** - Yaron Lipman, Marton Havasi, Peter Holderrieth et al., 2024
+  * Link: [[arXiv]](https://arxiv.org/abs/2412.06264) [[GitHub]](https://github.com/facebookresearch/flow_matching)
+  * Note: Introduces flow matching and its extensions such as non-Euclidean flow matching, discrete flow matching, and generator matching
+ 
+* **The Principles of Diffusion Models** - Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon, 2025
+  * Link: [[Website]](https://the-principles-of-diffusion-models.github.io/) [[arXiv]](https://arxiv.org/abs/2510.21890)
+  * Note: Introduces foundations of diffusion models through 3 complementary perspectives, while also presenting various algorithms for fast sampling
+
 ### Paper
 
+* **Mean Flows for One-step Generative Modeling** - Zhengyang Geng, Mingyang Deng, Xingjian Bai, J. Zico Kolter, Kaiming He, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2505.13447) [[GitHub]](https://github.com/Gsunshine/py-meanflow)
+  * Note: One-step generative modeling by learning the average velocity field (Note that there is also another official github repository containing the original JAX code)
+
 ### Lecture
+
+* **An Introduction to Flow Matching and Diffusion Models** - Peter Holderrieth, Ezra Erives, 2025
+  * Link: [[Website]](https://diffusion.csail.mit.edu/2025/index.html) [[arXiv]](https://arxiv.org/abs/2506.02070) [[GitHub]](https://github.com/eje24/iap-diffusion-labs)
+  * Note: Highly recommended introduction to flow matching and its connection with diffusion models. Example code and associated video lectures are also available
 
