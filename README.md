@@ -1,6 +1,8 @@
 # reference
 Useful books, papers, and lectures list
 
+> If you are not familiar with Git, please read [HOWTO](HOWTO.md) to learn how to add content.
+
 ## Table of Contents
 
 - [Template (Sample)](#template-sample)
