@@ -105,12 +105,44 @@ Useful books, papers, and lectures list
 * **Stochastic Interpolants: A Unifying Framework for Flows and Diffusions** - Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, 2025
   * Link: [[Website]](https://interpolants.github.io/) [[arXiv]](https://arxiv.org/abs/2303.08797) [[GitHub]](https://github.com/malbergo/stochastic-interpolants)
   * Note: Unification of flow matching and diffusion models via the concept of stochastic interpolants
+ 
+* **Transition Matching: Scalable and Flexible Generative Modeling** - Neta Shaul, Uriel Singer, Itai Gat, Yaron Lipman, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2506.23589)
+  * Note: No official github repository as of February 2026
+
+* **Generator Matching: Generative modeling with arbitrary Markov processes** - Peter Holderrieth, Marton Havasi, Jason Yim et al., 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2410.20587)
+  * Note: No official github repository as of February 2026
+ 
+* **Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans** - Christian Wald, Gabriele Steidl, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2501.16839)
+  * Note: Review paper
+ 
+* **A Unified Approach to Analysis and Design of Denoising Markov Models** - Yinuo Ren, Grant M. Rotskoff, Lexing Ying, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2504.01938)
+  * Note:
+ 
+* **A friendly introduction to triangular transport** - Maximilian Ramgraber, Daniel Sharp, Mathieu Le Provost, Youssef Marzouk, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2503.21673)
+  * Note: tutorial on triangular transport maps
 
 ### Lecture
 
-* **An Introduction to Flow Matching and Diffusion Models** - Peter Holderrieth, Ezra Erives, 2025
+* **An Introduction to Flow Matching and Diffusion Models (MIT 6.S184)** - Peter Holderrieth, Ezra Erives, 2025
   * Link: [[Website]](https://diffusion.csail.mit.edu/2025/index.html) [[arXiv]](https://arxiv.org/abs/2506.02070) [[GitHub]](https://github.com/eje24/iap-diffusion-labs)
   * Note: Highly recommended introduction to flow matching and its connection with diffusion models. Example code and associated video lectures are also available
+
+* **A Practical Introduction to Diffusion Models (MIT 6.S183)** - Chenyang Yuan, Cole Becker, Artem Lukoianov et al., 2026
+  * Link: [[Website]](https://www.practical-diffusion.org/)
+  * Note: Introductory course on diffusion models. Example code and associated video lectures are also available
+ 
+* **Diffusion & Flow Matching (CMU 10-799)** - Yutong (Kelly) He, 2026
+  * Link: [[Website]](https://kellyyutonghe.github.io/10799S26/)
+  * Note: Comprehensive course starting from diffusion models, flow matching and ending with fast sampling methods and discrete variants. Also has a very nice resource section.
+
+* **Course on Diffusion Models for Generative AI (IFML)** - Sanjay Shakkottai, 2025
+  * Link: [[Website]](https://ifml.institute/node/551)
+  * Note: Focuses on the mathematical foundations of diffusion models, flow matching, and diffusion language models
  
 * **Let us Flow Together** - Qiang Liu, 2024
   * Link: [[Website]](https://rectifiedflow.github.io/) [[PDF]](https://www.cs.utexas.edu/~lqiang/PDF/flow_book.pdf) [[GitHub]](https://github.com/lqiang67/rectified-flow)
@@ -120,9 +152,53 @@ Useful books, papers, and lectures list
 
 ### Book
 
+* **Reinforcement Learning from Human Feedback** - Nathan Lambert, 2026
+  * Link: [[Website]](https://rlhfbook.com/) [[PDF]](https://rlhfbook.com/book.pdf) [[GitHub]](https://github.com/natolambert/rlhf-book)
+  * Note: An introduction to RLHF and post-training focused on language models.
+
+* **Multi-Agent Reinforcement Learning: Foundations and Modern Approaches** - Stefano V. Albrecht, Filippos Christianos, Lukas Schäfer, MIT Press, 2024
+  * Link: [[Website]](https://www.marl-book.com/) [[PDF]](https://www.marl-book.com/download/marl-book.pdf) [[GitHub]](https://github.com/marl-book/codebase)
+  * Note: Introduction to multi-agent reinforcement learning, an area of machine learning in which multiple decision-making agents learn to optimally interact in a shared environment.
+
+* **Distributional Reinforcement Learning** - Marc G. Bellemare, Will Dabney, Mark Rowland, MIT Press, 2023
+  * Link: [[Website]](https://www.distributional-rl.org/) [[PDF]](https://watermark02.silverchair.com/book_9780262374026.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAAywwggMoBgkqhkiG9w0BBwagggMZMIIDFQIBADCCAw4GCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMZxFKjh2hIjH9JyJCAgEQgIIC33nBaL_hE-DBhAtP9Rh7QdMrs2JFTCfBqWqRlYRC0ia437Xtd_MlwYGTTtqvcqAUEWLybBcYPpUI8UsOt07g6MSKpTm-XP9UJ9zReQLT296jJFg7XrOvFhH2VXVrlMxclsAgP6XD6yXdT8HOT7QtIN3jShHo9SwZbE5vob5C7CmrLxVDbE-dA9qtmmMEc26ZjDvqT5MvJ3WFurjKcVKvoLX19mdS9LIMzhm1lId5nINTKppoZaLa5qFn3qBARPMhWoDsIOHEeo9oIQDAK_3KZjv6m2hDvODHlKP5qczTBskFBYdFUBH3v1K_IPyADrcJbfYA3ptHFR6Ttx_LsSlaB_YcCIAyHAsdFToR_5gUmAEwXHWZFsp2FYvL_FYl1mK8DayK6sckO9Yn4UpceCrAjHCntrHVfZLisdVFzDek5SH-AvM7F5HQabHOEEcTUgDDWQan53yGUkhdhMyvKalI-Hx242Fgzy1BfonBKCJlZGnVYzjnwuw_py5-2AzxIsGajD3aI2NExfVqQxiAV9Y4SdAisal8EWsFf35X1_idz1OA5koorje6WRQHXEEWLmmGjbOktpLIE0kQ6OjEwyqCSN7NaWT-VNI2xDrWXunAOjXsX98P54R5mNtWUClUhqHcAP-AuRRgrYyOIm5zB91YiB0QqTXW__8MMcEL4cekb1uLQGO8xUhVjzGkAKl04WzDG4_gJQhg03f-fQliqdovoyVX0DXzXSjGBxJnXZgiLxbr59AKQfs5xDphLQGfTtvMG-DOAgGcFOjr1HFymR9ijUzcpFTpaYt3QzSpOcK50urxrtxwo3JcWUuU5WTpSJl9LrrCVjq1zA9TWMq5pNVGP8D41um9pbgE2L2VtQhYmWWeCEVjNUWWEdc2Jtdg-2GdwqHHdbWKVawWhz-bEDPfeTScY0nBG3pr1PMTROOKsi7SrbX5uuexU5-D5i-ZlaJxt2BpTy4T77uAo4J80XOKhQ) [[GitHub]](https://github.com/natolambert/rlhf-book)
+  * Note: An introduction to distributional RL
+ 
+* **Reinforcement Learning: An Overview** - Kevin Murphy, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2412.05265)
+  * Note: Big-picture overview of the field of (deep) reinforcement learning
+
+* **Reinforcement Learning: Theory and Algorithms** - Alekh Agarwal, Kianté Brantley, Nan Jiang, Sham M. Kakade, Wen Sun, 2026
+  * Link: [[Website]](https://rltheorybook.github.io/) [[PDF]](https://rltheorybook.github.io/rltheorybook_ABJKS.pdf)
+  * Note: Book on the theory of reinforcement learning
+ 
+* **Reinforcement Learning: An Introduction** - Richard S. Sutton, Andrew G. Barto, MIT Press, 2nd Edition, 2020
+  * Link: [[Website]](http://incompleteideas.net/book/the-book.html) [[PDF]](http://incompleteideas.net/book/RLbook2020.pdf) [[GitHub]](https://github.com/ShangtongZhang/reinforcement-learning-an-introduction)
+  * Note: Classical introduction to reinforcement learning
+    
+* **Bandit Algorithms** - Tor Lattimore and Csaba Szepesvári, Cambridge University Press, 2020
+  * Link: [[Website]](https://banditalgs.com/about/) [[PDF]](https://tor-lattimore.com/downloads/book/book.pdf)
+  * Note: Focuses on the mathematical analysis of multi-armed bandit algorithms
+ 
+* **Bandit Convex Optimisation** - Tor Lattimore, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2402.06535) [[PDF]](https://arxiv.org/pdf/2402.06535)
+  * Note: Comprehensive reference on zeroth-order convex optimization algorithms in the multi-armed bandit literature
+
 ### Paper
 
 ### Lecture
+
+* **Deep Reinforcement Learning (Stanford CS 224R)** - Chelsea Finn, 2025
+  * Link: [[Website]](https://cs224r.stanford.edu/) [[Video]](https://www.youtube.com/playlist?list=PLoROMvodv4rPwxE0ONYRa_itZFdaKCylL)
+  * Note: Lecture material on reinforcement learning with deep neural networks
+
+* **Introduction to Reinforcement Learning (Harvard CS/Stat 184(0))** - Alexander Cai, 2025
+  * Link: [[Website]](https://rlbook.adzc.ai/) [[PDF]](https://rlbook.adzc.ai/An-Introduction-to-Reinforcement-Learning.pdf)
+  * Note: Lecture notes introducing the foundations of reinforcement learning
+
+* **Foundations of Reinforcement Learning and Interactive Decision Making (MIT 9.522)** - Dylan J. Foster, Alexander Rakhlin, 2023
+  * Link: [[arXiv]](https://arxiv.org/abs/2312.16730)
+  * Note: Lecture notes introducing the foundations of reinforcement learning and interactive decision making from a statistical perspective
 
 ## Conformal Prediction
 
@@ -180,10 +256,42 @@ Useful books, papers, and lectures list
 
 ### Book
 
+* **An Introduction to Sliced Optimal Transport** - Khai Nguyen, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2508.12519)
+  * Note: Introduction to sliced optimal transport
+
+* **Statistical optimal transport** - Sinho Chewi, Jonathan Niles-Weed, Philippe Rigollet, 2024
+  * Link: [[arXiv]](https://arxiv.org/abs/2407.18163)
+  * Note: Textbook on optimal transport from a statistical perspective
+ 
+* **Computational Optimal Transport** - Gabriel Peyré, Marco Cuturi, 2020
+  * Link: [[arXiv]](https://arxiv.org/abs/1803.00567)
+  * Note: Textbook on optimal transport from a computational/numerical perspective
+
+* **Optimal Transport for Applied Mathematicians** - Filippo Santambrogio, Birkhäuser, 2015
+  * Link: [[PDF]](https://math.univ-lyon1.fr/~santambrogio/OTAM-cvgmt.pdf)
+  * Note: Textbook on optimal transport
+
 ### Paper
+
+* **Statistical Properties of Rectified Flow** - Gonzalo Mena, Arun Kumar Kuchibhotla, Larry Wasserman, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2511.03193)
+  * Note: Introduces statistical properties of the rectified flow estimator for the OT map
+
+* **Statistical Inference for Optimal Transport Maps: Recent Advances and Perspectives** - Sivaraman Balakrishnan, Tudor Manole, Larry Wasserman, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2506.19025)
+  * Note: Review on recent advances in estimating and developing limit theorems for the OT map
+
+* **{ Euclidean, Metric, and Wasserstein } Gradient Flows: an overview** - Filippo Santambrogio, 2016
+  * Link: [[arXiv]](https://arxiv.org/abs/1609.03890)
+  * Note: Expository paper on the theory of gradient flows
 
 ### Lecture
 
+* **Optimal Transport for Machine Learners** - Gabriel Peyré, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2505.06589)
+  * Note: Notes on optimal transport and its applications to machine learning
+  
 ## Information Theory
 
 ### Book
@@ -235,6 +343,10 @@ Useful books, papers, and lectures list
 
 * **Real and Complex Analysis** - Walter Rudin, McGraw-Hill, 3rd Edition, 1987
   * Note: Classic "Big Rudin" covering measure theory, integration, and functional analysis foundations.
+    
+* **Applied Analysis** - John Hunter, Bruno Nachtergaele, 2001
+  * Link: [[Website]](https://www.math.ucdavis.edu/~hunter/book/pdfbook.html) [[PDF]](https://www.math.ucdavis.edu/~bxn/applied_analysis.pdf)
+  * Note: Covers parts of mathematical analysis that are useful in applications including Hilbert/Banach space theory, spectral theory of bounded operators, Schwartz space & tempered distributions, Fourier transforms, etc.
 
 ### Paper
 
