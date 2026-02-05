@@ -8,16 +8,17 @@ Useful books, papers, and lectures list
 - [Template (Sample)](#template-sample)
 - [Deep Learning](#deep-learning)
 - [Statistical Learning](#statistical-learning)
+- [Generative Models](#generative-models)
+- [Reinforcement Learning & Multi-armed Bandits](#reinforcement-learning--multi-armed-bandits)
 - [Conformal Prediction](#conformal-prediction)
-- [Markov Chain Monte Carlo (MCMC)](#Markov-Chain-Monte-Carlo-(MCMC))
-- [Bayesian Nonparametric Modeling](#Bayesian-Nonparametric-Modeling)
+- [Markov Chain Monte Carlo (MCMC)](#markov-chain-monte-carlo-mcmc)
+- [Bayesian Nonparametric Modeling](#bayesian-nonparametric-modeling)
 - [Uncertainty Quantification](#uncertainty-quantification)
-- [Optimal Transport](#Optimal-Transport)
-- [Information Theory](#Information-Theory)
+- [Optimal Transport](#optimal-transport)
+- [Information Theory](#information-theory)
 - [Probability Theory](#probability-theory)
 - [Mathematical Analysis and Measure Theory](#mathematical-analysis-and-measure-theory)
 - [Python and Programming](#python-and-programming)
-- [Generative Models](#generative-models)
 
 ## Template (Sample)
 
@@ -50,6 +51,10 @@ Useful books, papers, and lectures list
 * **Learn PyTorch for Deep Learning: Zero to Mastery** - Daniel Bourke, 2023
   * Link: [[Website]](https://www.learnpytorch.io/)
   * Note: Pytorch Tutorial
+ 
+* **CS336: Language Modeling from Scratch** - Stanford, Spring 2025
+  * Link: [[Website]](https://stanford-cs336.github.io/spring2025/index.html) [[Videos]](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+  * Note: Hands-on course on large language models (LLM)
 
 ## Statistical Learning
 
@@ -66,6 +71,54 @@ Useful books, papers, and lectures list
 * **Learning Theory from First Principles** - Francis Bach, MIT Press, 2024.
   * Link: [[Website]](https://francisbach.com/my-book-is-out/) [[PDF]](https://www.di.ens.fr/~fbach/ltfp_book.pdf)
   * Note: Theoretical presentation of machine learning algorithms, with an emphasis on providing simple proofs with minimum prerequisites
+ 
+* **Mathematical Analysis of Machine Learning Algorithms** - Tong Zhang, Cambridge University Press, 2023.
+  * Link: [[Website]](https://tongzhang-ml.org/lt-book.html) [[PDF]](https://tongzhang-ml.org/lt-book/lt-book.pdf)
+  * Note: Focuses on mathematical techniques used to analyze machine learning algorithms
+
+### Paper
+
+### Lecture
+
+## Generative Models
+
+### Book
+
+* **Flow Matching Guide and Code** - Yaron Lipman, Marton Havasi, Peter Holderrieth et al., 2024
+  * Link: [[arXiv]](https://arxiv.org/abs/2412.06264) [[GitHub]](https://github.com/facebookresearch/flow_matching)
+  * Note: Introduces flow matching and its extensions such as non-Euclidean flow matching, discrete flow matching, and generator matching
+ 
+* **The Principles of Diffusion Models** - Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon, 2025
+  * Link: [[Website]](https://the-principles-of-diffusion-models.github.io/) [[arXiv]](https://arxiv.org/abs/2510.21890)
+  * Note: Introduces foundations of diffusion models through 3 complementary perspectives, while also presenting various algorithms for fast sampling
+ 
+* **Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction** - Vincent Pauline, Tobias Höppe, Kirill Neklyudov et al., 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2512.05092)
+  * Note: Introduces diffusion models on both continuous and discrete state spaces
+
+### Paper
+
+* **Mean Flows for One-step Generative Modeling** - Zhengyang Geng, Mingyang Deng, Xingjian Bai, J. Zico Kolter, Kaiming He, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2505.13447) [[GitHub]](https://github.com/Gsunshine/py-meanflow)
+  * Note: One-step generative modeling by learning the average velocity field (Note that there is also another official github repository containing the original JAX code)
+ 
+* **Stochastic Interpolants: A Unifying Framework for Flows and Diffusions** - Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, 2025
+  * Link: [[Website]](https://interpolants.github.io/) [[arXiv]](https://arxiv.org/abs/2303.08797) [[GitHub]](https://github.com/malbergo/stochastic-interpolants)
+  * Note: Unification of flow matching and diffusion models via the concept of stochastic interpolants
+
+### Lecture
+
+* **An Introduction to Flow Matching and Diffusion Models** - Peter Holderrieth, Ezra Erives, 2025
+  * Link: [[Website]](https://diffusion.csail.mit.edu/2025/index.html) [[arXiv]](https://arxiv.org/abs/2506.02070) [[GitHub]](https://github.com/eje24/iap-diffusion-labs)
+  * Note: Highly recommended introduction to flow matching and its connection with diffusion models. Example code and associated video lectures are also available
+ 
+* **Let us Flow Together** - Qiang Liu, 2024
+  * Link: [[Website]](https://rectifiedflow.github.io/) [[PDF]](https://www.cs.utexas.edu/~lqiang/PDF/flow_book.pdf) [[GitHub]](https://github.com/lqiang67/rectified-flow)
+  * Note: Introduces rectified flows
+    
+## Reinforcement Learning & Multi-armed Bandits
+
+### Book
 
 ### Paper
 
@@ -192,28 +245,4 @@ Useful books, papers, and lectures list
 ### Book
 
 ### Lecture
-
-## Generative Models
-
-### Book
-
-* **Flow Matching Guide and Code** - Yaron Lipman, Marton Havasi, Peter Holderrieth et al., 2024
-  * Link: [[arXiv]](https://arxiv.org/abs/2412.06264) [[GitHub]](https://github.com/facebookresearch/flow_matching)
-  * Note: Introduces flow matching and its extensions such as non-Euclidean flow matching, discrete flow matching, and generator matching
- 
-* **The Principles of Diffusion Models** - Chieh-Hsin Lai, Yang Song, Dongjun Kim, Yuki Mitsufuji, Stefano Ermon, 2025
-  * Link: [[Website]](https://the-principles-of-diffusion-models.github.io/) [[arXiv]](https://arxiv.org/abs/2510.21890)
-  * Note: Introduces foundations of diffusion models through 3 complementary perspectives, while also presenting various algorithms for fast sampling
-
-### Paper
-
-* **Mean Flows for One-step Generative Modeling** - Zhengyang Geng, Mingyang Deng, Xingjian Bai, J. Zico Kolter, Kaiming He, 2025
-  * Link: [[arXiv]](https://arxiv.org/abs/2505.13447) [[GitHub]](https://github.com/Gsunshine/py-meanflow)
-  * Note: One-step generative modeling by learning the average velocity field (Note that there is also another official github repository containing the original JAX code)
-
-### Lecture
-
-* **An Introduction to Flow Matching and Diffusion Models** - Peter Holderrieth, Ezra Erives, 2025
-  * Link: [[Website]](https://diffusion.csail.mit.edu/2025/index.html) [[arXiv]](https://arxiv.org/abs/2506.02070) [[GitHub]](https://github.com/eje24/iap-diffusion-labs)
-  * Note: Highly recommended introduction to flow matching and its connection with diffusion models. Example code and associated video lectures are also available
 
