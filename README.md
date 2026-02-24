@@ -60,6 +60,14 @@ Useful books, papers, and lectures list
 
 ### Book
 
+* **Probabilistic Machine Learning: An Introduction** - Kevin Murphy, MIT Press, 2022
+  * Link: [[Website]](https://probml.github.io/pml-book/book1.html) [[PDF]](https://github.com/probml/pml-book/releases/latest/download/book1.pdf)
+  * Note: Mainly covers supervised learning algorithms from classical linear regression to modern deep learning models
+
+* **Probabilistic Machine Learning: Advanced Topics** - Kevin Murphy, MIT Press, 2023
+  * Link: [[Website]](https://probml.github.io/pml-book/book2.html) [[PDF]](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf)
+  * Note: Probably the most comprehensive machine learning book in existence
+
 * **The Elements of Statistical Learning** - Trevor Hastie, Robert Tibshirani, Jerome Friedman, Springer, 2nd Edition, 2009
   * Link: [[Website]](https://hastie.su.domains/ElemStatLearn/) [[PDF]](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf)
   * Note: Comprehensive treatment of statistical learning methods including regularization, kernel methods, trees, boosting, and neural networks.
@@ -95,28 +103,24 @@ Useful books, papers, and lectures list
 * **Foundations of Diffusion Models in General State Spaces: A Self-Contained Introduction** - Vincent Pauline, Tobias Höppe, Kirill Neklyudov et al., 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2512.05092)
   * Note: Introduces diffusion models on both continuous and discrete state spaces
+ 
+* **Demystifying Variational Diffusion Models** - Fabio De Sousa Ribeiro, Ben Glocker, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2401.06281)
+  * Note: Introduces diffusion models from a variational inference perspective
 
 ### Paper
 
-* **Mean Flows for One-step Generative Modeling** - Zhengyang Geng, Mingyang Deng, Xingjian Bai, J. Zico Kolter, Kaiming He, 2025
-  * Link: [[arXiv]](https://arxiv.org/abs/2505.13447) [[GitHub]](https://github.com/Gsunshine/py-meanflow)
-  * Note: One-step generative modeling by learning the average velocity field (Note that there is also another official github repository containing the original JAX code)
- 
-* **Stochastic Interpolants: A Unifying Framework for Flows and Diffusions** - Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, 2025
-  * Link: [[Website]](https://interpolants.github.io/) [[arXiv]](https://arxiv.org/abs/2303.08797) [[GitHub]](https://github.com/malbergo/stochastic-interpolants)
-  * Note: Unification of flow matching and diffusion models via the concept of stochastic interpolants
+* **Terminal Velocity Matching** - Linqi Zhou, Mathias Parger, Ayaan Haque, Jiaming Song, 2026
+  * Link: [[arXiv]](https://arxiv.org/abs/2511.19797)
+  * Note:
  
 * **Transition Matching: Scalable and Flexible Generative Modeling** - Neta Shaul, Uriel Singer, Itai Gat, Yaron Lipman, 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2506.23589)
   * Note: No official github repository as of February 2026
 
-* **Generator Matching: Generative modeling with arbitrary Markov processes** - Peter Holderrieth, Marton Havasi, Jason Yim et al., 2025
-  * Link: [[arXiv]](https://arxiv.org/abs/2410.20587)
-  * Note: No official github repository as of February 2026
- 
-* **Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans** - Christian Wald, Gabriele Steidl, 2025
-  * Link: [[arXiv]](https://arxiv.org/abs/2501.16839)
-  * Note: Review paper
+* **Mean Flows for One-step Generative Modeling** - Zhengyang Geng, Mingyang Deng, Xingjian Bai, J. Zico Kolter, Kaiming He, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2505.13447) [[GitHub]](https://github.com/Gsunshine/py-meanflow)
+  * Note: One-step generative modeling by learning the average velocity field (Note that there is also another official github repository containing the original JAX code)
  
 * **A Unified Approach to Analysis and Design of Denoising Markov Models** - Yinuo Ren, Grant M. Rotskoff, Lexing Ying, 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2504.01938)
@@ -125,6 +129,18 @@ Useful books, papers, and lectures list
 * **A friendly introduction to triangular transport** - Maximilian Ramgraber, Daniel Sharp, Mathieu Le Provost, Youssef Marzouk, 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2503.21673)
   * Note: tutorial on triangular transport maps
+ 
+* **Flow Matching: Markov Kernels, Stochastic Processes and Transport Plans** - Christian Wald, Gabriele Steidl, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2501.16839)
+  * Note: Review paper
+ 
+* **Generator Matching: Generative modeling with arbitrary Markov processes** - Peter Holderrieth, Marton Havasi, Jason Yim et al., 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2410.20587)
+  * Note: No official github repository as of February 2026
+ 
+* **Stochastic Interpolants: A Unifying Framework for Flows and Diffusions** - Michael S. Albergo, Nicholas M. Boffi, Eric Vanden-Eijnden, 2025
+  * Link: [[Website]](https://interpolants.github.io/) [[arXiv]](https://arxiv.org/abs/2303.08797) [[GitHub]](https://github.com/malbergo/stochastic-interpolants)
+  * Note: Unification of flow matching and diffusion models via the concept of stochastic interpolants
 
 ### Lecture
 
