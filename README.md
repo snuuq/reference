@@ -226,6 +226,14 @@ Useful books, papers, and lectures list
 
 ### Paper
 
+* **Non-monotonicity in Conformal Risk Control** - Tareq Aldirawi, Yun Li, Wenge Guo, 2026
+  * Link: [[arXiv]](https://arxiv.org/abs/2604.01502)
+  * Note:
+
+* **Conformal Risk Control for Non-Monotonic Losses** - Anastasios N. Angelopoulos, 2026
+  * Link: [[arXiv]](https://arxiv.org/abs/2602.20151)
+  * Note:
+
 * **A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification** - Anastasios N. Angelopoulos, Stephen Bates, 2021
   * Link: [[arXiv]](https://arxiv.org/abs/2107.07511)
   * Note: Accessible tutorial on conformal prediction basics, split conformal, and coverage guarantees.
@@ -248,13 +256,17 @@ Useful books, papers, and lectures list
 
 ### Book
 
-* **Gaussian Processes for Machine Learning** - Carl Rasmussen, Christopher Williams, MIT Press, 2006
-  * Link: [[Website]](https://gaussianprocess.org/gpml/chapters/) [[PDF]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
-  * Note: Reference for gaussian processes from a machine learning context.
- 
+* **Gaussian Processes and Reproducing Kernels: Connections and Equivalences** - Motonobu Kanagawa, Philipp Hennig, Dino Sejdinovic, Bharath K. Sriperumbudur, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2506.17366)
+  * Note:
+
 * **Bayesian Optimization** - Roman Garnett, Cambridge University Press, 2023
   * Link: [[Website]](https://bayesoptbook.com/) [[PDF]](https://bayesoptbook.com/book/bayesoptbook.pdf)
   * Note: Nice, comprehensive introduction to gaussian processes and bayesian optimization
+
+* **Gaussian Processes for Machine Learning** - Carl Rasmussen, Christopher Williams, MIT Press, 2006
+  * Link: [[Website]](https://gaussianprocess.org/gpml/chapters/) [[PDF]](https://gaussianprocess.org/gpml/chapters/RW.pdf)
+  * Note: Reference for gaussian processes from a machine learning context.
 
 ### Paper
 
@@ -265,6 +277,18 @@ Useful books, papers, and lectures list
 ### Book
 
 ### Paper
+
+* **Repro Samples Method for a Performance Guaranteed Inference in General and Irregular Inference Problems** - Minge Xie, Peng Wang, 2026
+  * Link: [[arXiv]](https://arxiv.org/abs/2402.15004)
+  * Note:
+ 
+* **Proper scoring rules for estimation and forecast evaluation** - Kartik Waghmare, Johanna Ziegel, 2025
+  * Link: [[arXiv]](https://arxiv.org/abs/2504.01781)
+  * Note:
+ 
+* **Repro Samples Method for Finite- and Large-Sample Inferences** - Min-ge Xie, Peng Wang, 2022
+  * Link: [[arXiv]](https://arxiv.org/abs/2206.06421)
+  * Note:
 
 ### Lecture
 
@@ -356,6 +380,14 @@ Useful books, papers, and lectures list
 ## Mathematical Analysis and Measure Theory
 
 ### Book
+
+* **Measure, Integration & Real Analysis** - Sheldon Axler, Springer, 2020
+  * Link: [[Website]](https://measure.axler.net/) [[PDF]](https://measure.axler.net/MIRA.pdf)
+  * Note:
+ 
+* **Basic/Advanced Real Analysis** - Anthony W. Knapp, Birkhäuser, 2017
+  * Link: [[Website]](https://www.math.stonybrook.edu/~aknapp/download.html)
+  * Note: 
 
 * **Real and Complex Analysis** - Walter Rudin, McGraw-Hill, 3rd Edition, 1987
   * Note: Classic "Big Rudin" covering measure theory, integration, and functional analysis foundations.
