@@ -112,7 +112,7 @@ Useful books, papers, and lectures list
 
 * **Terminal Velocity Matching** - Linqi Zhou, Mathias Parger, Ayaan Haque, Jiaming Song, 2026
   * Link: [[arXiv]](https://arxiv.org/abs/2511.19797)
-  * Note:
+  * Note: Proposes a one-step generative model by learning to match the terminal velocity of a flow, enabling efficient single-step sampling
  
 * **Transition Matching: Scalable and Flexible Generative Modeling** - Neta Shaul, Uriel Singer, Itai Gat, Yaron Lipman, 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2506.23589)
@@ -124,7 +124,7 @@ Useful books, papers, and lectures list
  
 * **A Unified Approach to Analysis and Design of Denoising Markov Models** - Yinuo Ren, Grant M. Rotskoff, Lexing Ying, 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2504.01938)
-  * Note:
+  * Note: Provides a unified theoretical framework for analyzing and designing denoising Markov models, unifying various diffusion model formulations
  
 * **A friendly introduction to triangular transport** - Maximilian Ramgraber, Daniel Sharp, Mathieu Le Provost, Youssef Marzouk, 2025
   * Link: [[arXiv]](https://arxiv.org/abs/2503.21673)
