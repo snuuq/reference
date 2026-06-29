@@ -28,7 +28,7 @@ Useful books, papers, and lectures list
   * Link: [[Website]](https://udlbook.github.io/udlbook/) [[PDF]](https://udlbook.github.io/udlbook/) [[GitHub]](https://github.com/udlbook/udlbook)
   * Note: Comprehensive textbook covering deep learning fundamentals to advanced topics (Transformers, Diffusion Models). Balances theory and practice with clear visualizations.
 
-* **Theoretical Foundations of Conformal Prediction** - Anastasios N. Angelopoulos, Rina Foygel Barber, Stephen Bates, Cambridge University Press (forthcoming), 2024
+* **Theoretical Foundations of Conformal Prediction** - Anastasios N. Angelopoulos, Rina Foygel Barber, Stephen Bates, Cambridge University Press (forthcoming), 24
   * Link: [[arXiv]](https://arxiv.org/abs/2411.11824) [[PDF]](https://arxiv.org/pdf/2411.11824)
   * Note: Research monograph on the theoretical foundations of conformal prediction and distribution-free inference. Covers permutation tests, exchangeability, and finite-sample guarantees for prediction sets.
 
@@ -53,7 +53,7 @@ Useful books, papers, and lectures list
   * Note: Pytorch Tutorial
  
 * **CS336: Language Modeling from Scratch** - Stanford, Spring 2025
-  * Link: [[Website]](https://stanford-cs336.github.io/spring2025/index.html) [[Videos]](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
+  * Link: [[Website]](https://cs336.stanford.edu/) [[Videos]](https://www.youtube.com/playlist?list=PLoROMvodv4rOY23Y0BoGoBGgQ1zmU_MT_)
   * Note: Hands-on course on large language models (LLM)
 
 ## Statistical Learning
@@ -145,7 +145,7 @@ Useful books, papers, and lectures list
 ### Lecture
 
 * **An Introduction to Flow Matching and Diffusion Models (MIT 6.S184)** - Peter Holderrieth, Ezra Erives, 2025
-  * Link: [[Website]](https://diffusion.csail.mit.edu/2025/index.html) [[arXiv]](https://arxiv.org/abs/2506.02070) [[GitHub]](https://github.com/eje24/iap-diffusion-labs)
+  * Link: [[Website]](https://diffusion.csail.mit.edu) [[arXiv]](https://arxiv.org/abs/2506.02070) [[GitHub]](https://github.com/eje24/iap-diffusion-labs)
   * Note: Highly recommended introduction to flow matching and its connection with diffusion models. Example code and associated video lectures are also available
 
 * **A Practical Introduction to Diffusion Models (MIT 6.S183)** - Chenyang Yuan, Cole Becker, Artem Lukoianov et al., 2026
